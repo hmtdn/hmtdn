@@ -18,31 +18,19 @@ I'm interested in computer networks, system administration, infrastructure, and 
 
 ⚡ Fun fact: I enjoy troubleshooting and understanding things down to the technical details.
 
+
 🛠️ Technologies & Tools
 
-Networking
+- Networking:
 
 TCP/IP, IPv4, IPv6, DNS, DHCP
 
 Routing & Switching
 
-Operating Systems
+- Operating Systems: Windows 11, Windows Server, Linux
 
-Windows 11
+Tools & Platforms: Git & GitHub, VMware, AdGuard Home
 
-Windows Server
-
-Linux
-
-Tools & Platforms
-
-Git & GitHub
-
-VMware
-
-AdGuard Home
-
-TP-Link Networking
 
 📌 Current Focus
 
